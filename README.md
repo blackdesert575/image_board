@@ -3,10 +3,10 @@
 ## To-do-list
 
 * reference implementation
-    * [github.com/hong539/pttweb](https://github.com/hong539/pttweb)
+    * [github.com/blackdesert575/pttweb](https://github.com/blackdesert575/pttweb)
     * [github.com/pinry/pinry](https://github.com/pinry/pinry)
     * [pypi.org/project/Boorunaut](https://pypi.org/project/Boorunaut/)
-    * [forked from gnstaxo/imageboard](https://github.com/hong539/imageboard)
+    * [forked from gnstaxo/imageboard](https://github.com/blackdesert575/imageboard)
     * [szurubooru](https://github.com/rr-/szurubooru)
         * Image board engine, Danbooru-style.
     * [A Complete Beginner's Guide to Django - Part 1](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html)
